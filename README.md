@@ -42,6 +42,7 @@ Hello! I'm Thanawat Potidet, a 4rd-year Computer Science student at Kasetsart Un
     <img alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
     <img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg"/>
 </p>
+
 ---
 
 ### Dev Tools
@@ -71,6 +72,7 @@ Hello! I'm Thanawat Potidet, a 4rd-year Computer Science student at Kasetsart Un
     <img alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img alt="Cloudflare" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original-wordmark.svg" />
 </p>
+
 ---
 
 ### Database
@@ -80,6 +82,7 @@ Hello! I'm Thanawat Potidet, a 4rd-year Computer Science student at Kasetsart Un
     <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 </p>
+
 ---
 
 ### Monitoring & Performance
